@@ -5,3 +5,8 @@
 ```shell
 $ nvm use
 ```
+2. husky 실행 방법
+```shell
+$ yarn prepare
+```
+pre-commit에서 eslint, prettier 적용 검증
